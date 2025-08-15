@@ -6,6 +6,7 @@ import torch
 from torch import optim, nn
 from torch.utils.data import DataLoader,random_split
 from tqdm import tqdm
+from UNet import *
 
 
 class BrainTumorDataset(Dataset):
