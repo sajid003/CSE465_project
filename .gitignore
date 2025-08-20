@@ -1,1 +1,4 @@
 dataset/
+.ipynb_checkpoints/
+nohup.out
+
